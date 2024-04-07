@@ -170,7 +170,7 @@ const Navbar=()=>{
     <Nav>
       <NavContainer>
         <NavLogo to='/'>
-        <a href='/' style={{ display: "flex", alignItems: "center", color: "white", marginBottom: '20;', cursor: 'pointer' ,textDecoration: 'none'}}>
+        <a href='/My-Portfolio' style={{ display: "flex", alignItems: "center", color: "white", marginBottom: '20;', cursor: 'pointer' ,textDecoration: 'none'}}>
             <DiCssdeck size="3rem" /> <Span>Portfolio</Span>
         </a>
         </NavLogo>
